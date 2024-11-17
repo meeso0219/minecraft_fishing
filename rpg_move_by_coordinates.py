@@ -7,6 +7,8 @@ from pynput import keyboard
 import random
 import threading
 
+# NEW
+
 # Tesseract 설치 경로 설정
 pytesseract.pytesseract.tesseract_cmd = r'/opt/homebrew/bin/tesseract'
 
